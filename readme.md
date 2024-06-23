@@ -15,7 +15,7 @@
 ```
 mkdir Pasta
 cd Pasta
-git clone https://github.com/<COLOCAR_REPOSITÓRIO>
+git clone https://github.com/samuelt005/trabalho-docker-final.git
 cd TrabalhoDocker
 ```
 
